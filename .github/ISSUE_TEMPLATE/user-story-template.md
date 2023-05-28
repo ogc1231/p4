@@ -1,5 +1,5 @@
 ---
-name: User Story
+name: User Story Template
 about: User story template
 title: 'USER STORY: <TITLE>'
 labels: ''
@@ -7,4 +7,10 @@ assignees: ''
 
 ---
 
+EPIC: <epic>
+
 As a **role** I can **capability** so that **received benefit**
+
+**Acceptance Criteria**
+
+**Tasks**
